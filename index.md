@@ -1,6 +1,6 @@
 #Books
 
-[Aubin, The Noble Slaves](AubinTheNobleSlaves-compressed.pdf)
+[Aubin, The Noble Slaves](./AubinTheNobleSlaves-compressed.pdf)
 
 ## Welcome to GitHub Pages
 
